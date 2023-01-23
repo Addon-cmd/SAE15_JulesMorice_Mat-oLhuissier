@@ -1,0 +1,9 @@
+Nous avons réparti les tâches pour l'accomplissement de notre projet:
+
+Matéo Lhuissier: 
+- Les programmes python (calculs, courbes, ...)
+- Le compte rendu (en markdown -> pdf)
+
+Jules Morice: 
+- La réalisation de la totalité du site web d'analyse
+- Programme python de récupération des données
