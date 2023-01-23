@@ -1,5 +1,5 @@
 #module de calculs de stats
-#copyright Mateo Lhuissier
+#copyright Mateo Lhuissier & Jules Morice
 #version 1.1
 #20/01/2023
 
