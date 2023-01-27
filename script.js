@@ -48,3 +48,14 @@ document.addEventListener("click", (e) => {
     }
 });
 
+/* ----------------- Day section ----------------------- */
+
+
+function imgSlider(anything){
+    document.querySelector('.item_img').src = anything;
+
+}
+function changeCircleColor(color){
+    const circle = document.querySelector('.circle');
+    circle.style.background = color;
+}

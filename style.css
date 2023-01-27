@@ -950,14 +950,32 @@
   cursor: pointer;
   background-repeat: no-repeat;
   background-size: cover;
-  transition: all 2s ease;
+  background-clip: content-box;
+  transition: all 1s ease;
 }
 
 
 .item_img:hover {
   width: 20vw;
   transition: all 1s ease;
+  font-weight: 700;
+  font-size: auto;
 }
+
+.item_img p{
+  color: #000;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  text-shadow: 2px 2px #fff;
+  background-color: rgba(255, 255, 255, 0.555);
+  margin-top: 55px;
+  text-align: center;
+  margin-top: 50%;
+  width: 100%;
+}
+
+
+
 
 
 
